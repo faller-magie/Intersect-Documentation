@@ -1,5 +1,5 @@
 # Télécharger Intersect
-Intersect est disponible sur le forum Ascension Game Dev. Vous pouvez le télécharger à l'adresse suivante : [Téléchargez la dernière version.](https://www.freemmorpgmaker.com/downloads/)
+Intersect est disponible sur le forum Ascension Game Dev. Vous pouvez le télécharger au lien suivant : [Téléchargez la dernière version.](https://www.freemmorpgmaker.com/downloads/)
 
 ## Extraire le logiciel
 Intersect est contenu dans un fichier compressé zip. Utiliser une version recente de Windows peut faire l'affaire pour extraire le logiciel. Faitez clique-droit sur le fichier zip puis **Extraire Tout**.
