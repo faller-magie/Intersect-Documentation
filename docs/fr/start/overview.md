@@ -1,39 +1,39 @@
-# Editor Overview
+# Aperçu de l'Editeur
 ![Game Editor](https://www.ascensiongamedev.com/resources/filehost/c399bc35aad37d828ddda1986538e7bd.png)
 
-Our editor is very advanced and can be fairly daunting at first.  This page will quickly give name to each of the panels/areas and provide an overview for what they're for.
+L'éditeur peut paraitre très intimidant au premier abord. Mais pas de panique, cette page va vous aider à vous familiariser très rapidement aux divers panneaux/fenetres et  fournira une vue d'ensemble de ce à quoi ils servent. 
 
 &nbsp;
 
-Map Editor
+Editeur de map
 ---------------------------
-Let's start with the big area in the middle. This is the map editor. Unlike the image above, your map is probably empty.
+Commençons par la grande zone en plein milieu de l'écran. Il s'agit de votre éditeur de maps. Contrairement à l'image au dessus, votre map doit être probablement vide.
 
-Working with the Map Layers panel on the left you can place tiles from tilesets on your map to start designing your game world.
+En travaillant avec le panneau de calques de map sur la gauche, vous pouvez placer les tiles à partir des tilesets sur votre map pour commencer à concevoir le monde de votre jeu.
 
-**Start Mapping:**
->- Click on the **Pen Tool** ![Pen Tool](https://www.ascensiongamedev.com/resources/filehost/a20847da4a43f52234ccda97b1125a88.png) in the menubar above your map.
->- Select **Tiles** in the **Map Layers** pane.
->- Use your mouse to select a tile or group of tiles to place in your empty map. <a href="http://www.ascensiongamedev.com/resources/filehost/03856cde2da1c67f07b0123b90b6b0dc.gif" data-lity><i class="fa fa-play-circle"></i></a>
->- Finally click and drag your mouse on the empty map to place your selected tiles. <a href="http://www.ascensiongamedev.com/resources/filehost/03856cde2da1c67f07b0123b90b6b0dc.gif" data-lity><i class="fa fa-play-circle"></i></a>
->- Congratulations, you're mapping! Don't forget to save your changes by hitting the save icon in the top left of your screen. ![](https://www.ascensiongamedev.com/resources/filehost/7f974a7fc91ef6666e3211c8622fe088.png)
+**Commencer le Mapping:**
+>- Cliquez sur **l'outil crayon** ![Pen Tool](https://www.ascensiongamedev.com/resources/filehost/a20847da4a43f52234ccda97b1125a88.png) dans la bar du menu au dessus de votre map.
+>- Selectionnez **Tiles** dans le panneau des **Calques de map**.
+>- Utilisez votre souris pour selectionner un tile ou un groupe de tiles et le placer sur votre map vide. <a href="http://www.ascensiongamedev.com/resources/filehost/03856cde2da1c67f07b0123b90b6b0dc.gif" data-lity><i class="fa fa-play-circle"></i></a>
+>- Enfin, cliquez et glissez votre curseur dans votre map vide pour placer vos tiles. <a href="http://www.ascensiongamedev.com/resources/filehost/03856cde2da1c67f07b0123b90b6b0dc.gif" data-lity><i class="fa fa-play-circle"></i></a>
+>- Bravo, vous avez appris à faire du mapping! N'oubliez pas de sauvegarder vos modifications régulièrement, en cliquant sur l'icône de sauvegarde en haut à gauche de votre écran. ![](https://www.ascensiongamedev.com/resources/filehost/7f974a7fc91ef6666e3211c8622fe088.png)
 
 
-We won't go in depth about the map editor here, for more information see: World Design
+Nous n'irons pas en détail sur l'éditeur de maps ici, pour en apprendre plus, allez voir la rubrique: **World Design**
 
 &nbsp;
 
-Map Layers
+Les calques de la map
 ---------------------------
-This is the area where you select different tiles, attributes, lights, events, and npcs to place on the map.
+Il s'agit de la zone ou se trouve les differents types de tiles, les attributs, les lumières, les events, et les pnj à placer sur votre map.
 
 ![Map Layers](https://www.ascensiongamedev.com/resources/filehost/ffcf5ccf19de31db8389a08b9bafea3c.png)
 
-- Tiles are the graphics that actually make up the game world.
-- Attributes are placed on top of the tiles and tell the game how the player can interact with them. Attributes include blocks (to prevent players from reaching unwanted areas), warps (to move a player inside houses or to different parts of the world), animations, and more!
-- Lights are lights. Eventually you will configure how you want time to pass in your game and if you want your game to get dark at night. If so, you can place lights on the map to provide some really cool effects.
-- Events are pretty complex. We will touch up on those later. In short they help you create your game's story, interactions with npcs, provide quests, puzzles, and so much more!
-- The NPC tab is last but not least, this is how you add combatable entities/monsters/bosses to your game world. More on that later.
+- Les Tiles sont généralement les éléments graphiques qui composent l'univers de votre jeu.
+- Les Attributs sont placés au dessus des tiles et permet de définir comment le joueur peut intéragir avec votre univers. Ils comportent plusieurs types : les blocs (créent des murs et des barrières invisibles), les warps (déplacer le joueur vers l'interieur des maisons ou dans d'autres parties du monde), les animations, et bien plus encore!
+- Les lumières sont...les lumières. Vous finirez par apprendre à configurer la façon dont vous voulez que le temps passe dans votre jeu. Eventuellement, vous mettrez de la nuit dans votre univers. Si c'est le cas, vous pouvez placer des lumières sur la carte pour obtenir des effets très intéressants.
+- Les Events peuvent être complexes. Nous les aborderons plus tard. En bref, ils vous permettent de créer l'histoire de votre jeu, de l'interaction avec des pnjs, créer des quêtes, des puzzles, et beaucoup plus!
+- On termine par le dernier onglet PNJs, c'est ici que vous allez ajouter vos monstres/entités/boss pour l'univers de votre jeu. Nous y reviendrons plus tard.
 
 &nbsp;
 
