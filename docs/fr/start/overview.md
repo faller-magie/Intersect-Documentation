@@ -30,7 +30,7 @@ Il s'agit de la zone ou se trouve les differents types de tiles, les attributs, 
 ![Map Layers](https://www.ascensiongamedev.com/resources/filehost/ffcf5ccf19de31db8389a08b9bafea3c.png)
 
 - Les Tiles sont généralement les éléments graphiques qui composent l'univers de votre jeu.
-- Les Attributs sont placés au dessus des tiles et permet de définir comment le joueur peut intéragir avec votre univers. Ils comportent plusieurs types : les blocs (créent des murs et des barrières invisibles), les warps (déplacer le joueur vers l'interieur des maisons ou dans d'autres parties du monde), les animations, et bien plus encore!
+- Les Attributs sont placés au dessus des tiles et permet de définir comment le joueur peut intéragir avec le décor. Ils comportent plusieurs types : les blocs (créent des murs et des barrières invisibles), les warps (déplacer le joueur vers l'interieur des maisons ou dans d'autres parties du monde), les animations, et bien plus encore!
 - Les lumières sont...les lumières. Vous finirez par apprendre à configurer la façon dont vous voulez que le temps passe dans votre jeu. Eventuellement, vous mettrez de la nuit dans votre univers. Si c'est le cas, vous pouvez placer des lumières sur la carte pour obtenir des effets très intéressants.
 - Les Events peuvent être complexes. Nous les aborderons plus tard. En bref, ils vous permettent de créer l'histoire de votre jeu, de l'interaction avec des pnjs, créer des quêtes, des puzzles, et beaucoup plus!
 - On termine par le dernier onglet PNJs, c'est ici que vous allez ajouter vos monstres/entités/boss pour l'univers de votre jeu. Nous y reviendrons plus tard.
