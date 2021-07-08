@@ -1,17 +1,15 @@
-# Download Intersect
-Intersect can be downloaded from Ascension Game Dev's download hub. [Download the latest version of Intersect from our site.](https://www.freemmorpgmaker.com/downloads/)
+# Télécharger Intersect
+Intersect est disponible sur le forum Ascension Game Dev. Vous pouvez le télécharger à l'adresse suivante : [Téléchargez la dernière version sur le lien.](https://www.freemmorpgmaker.com/downloads/)
 
-If you're just now getting started with Intersect you will want to download the Full archive. Save this file somewhere you can find it.
-
-## Extracting Intersect
-Intersect is contained within a zip archive. Any version of Windows can extract Intersect so you can begin using it. Navigate to the Intersect archive, right click on it, and select the Extract All option.
-**We recommend you extract onto your Desktop or within your Documents folder.**
+## Extraire le logiciel
+Intersect est contenu dans un fichier compressé zip. Utiliser une version recente de Windows peut faire l'affaire pour extraire le logiciel. Faitez clique-droit sur le fichier zip puis **Extraire Tout**.
+**Il est recommandé d'extraire Intersect sur votre Bureau ou dans votre Dossier Documents.**
 
 ![ExtractIntersect](https://www.ascensiongamedev.com/resources/filehost/db59c62b62d5d1611fce19338f4c40b9.gif)
 
 
-## File Structure Overview
-Once you extract your files, you can you’re your file and should see three folders:
-- Client and Editor: The client-side of the engine, which is the “game” component you and others will use to play your MMO.
-- Documentation: Various documents and ReadMe files. We encourage you browse these before starting.
-- Server: The server-side of the engine which you alone will run on a host machine, allowing others to connect via the client.
+## Structure du Dossier
+Une fois que vous avez extrait les fichiers, rentrez dans le dossier et vous devriez voir 3 autres dossiers :
+- Client et Editor: Le Client, l'élément qui servira de "jeu" et qui permettra à vous et aux autres de jouer à votre MMO.
+- Documentation: La documentation est le manuel du moteur. Nous vous encourageons vivement de l'utiliser avant de vous lancer.
+- Server: La partie Serveur du moteur permet de faire tourner votre jeu en temps réel et de pouvoir s'y connecter avec le Client.   
