@@ -37,21 +37,21 @@ Il s'agit de la zone ou se trouve les differents types de tiles, les attributs, 
 
 &nbsp;
 
-Map List
+Liste des maps (Hierarchie)
 ---------------------------
-A large game may have dozens or hundreds of maps. The map list is where you can navigate to and organize the maps you have created.
+Un jeu intersect peut avoir une dizaine ou une centaine de maps, ce qui peut devenir ingérable par la suite. Heureusement, la liste est justement là pour vous permettre de créer, naviguer entre les maps et de les ranger dans l'ordre que vous voulez.
 
 ![Map List](https://www.ascensiongamedev.com/resources/filehost/fd600e2516e3b6a54193c5ce5bfce958.png)
 
-Double clicking a map on this list will open that map for you to edit. You can create folders, re-order maps, rename maps, and delete maps on this list.
+En double-cliquant sur une map de la liste, vous allez ainsi pouvoir modifier une map spécifique de votre choix. Vous avez aussi la possibilité de créer des dossiers, de  changer l'ordre, renommer les maps et les effacer de la liste pour organiser la liste à votre guise.
 
 &nbsp;
 
-Map Properties
+Propriétés de la map
 ---------------------------
 ![Map Properties](https://www.ascensiongamedev.com/resources/filehost/6fa0203860907911f251ed13f174b7d2.png)
 
-The map properties pane allows you to customize various settings for your map such as background music, the map name, weather options, whether or not the map is a combat zone, lighting, and more.
+Le panneau de propriétés de la map vous permet de personnaliser certains paramètres comme la musique de fond, le nom de la map, la météo, la luminosité et bien plus.
 
 &nbsp;
 
@@ -59,25 +59,25 @@ Menu Bar
 ---------------------------
 ![Menu Bar](https://www.ascensiongamedev.com/resources/filehost/f951597a65ac34164090c46e3a640680.png)
 
-The menu bar at the top of your editor is your gateway to everything else our engine has to offer. The bottom row consists of all sorts of mapping tools that are discussed in the World Design page. The **File**, **Edit**, and **View** drop downs all offer various mapping options that you don't need to worry about right now.
+La barre d'outils, situé haut de votre editeur sera dans la plus part des cas, votre meilleur allié. La rangée du bas est constituée de toutes sortes d'outils cartographiques qui sont abordés dans la page **World Design**. Les menus **Fichier**, **Editeur**, et **Affichage** offrent tous diverses options de mapping dont vous n'avez pas à vous soucier pour l'instant.
 
-The important components of the Menu Bar are the **Game Editors** drop down and the **Help** menu.
+Le plus important est de se concentrer sur le menu **Editeurs** et **Aide**.
 
-The **Game Editors** drop down will give you easy access to modify all the other major components of your game.
+Les **Editeurs** vous donnent la possiblité de modifier et créer le contenu et les aspects importants de votre jeu. On peut y créer des classes, des quêtes, des types de projectiles.
 
 ![Game Editors](https://www.ascensiongamedev.com/resources/filehost/6ab2903c37f843bc11f61e14d1130e90.png)
 
 &nbsp;
-The **Help** menu gives you quick access to the appropriate pages within our community to as questions and alert us of any bugs that you may find.
+Le menu **Aide**, comme son nom l'indique, est la pour vous rediriger vers une quelconque aide, que ce soit par la communauté du forum ou une FAQ, pour répondre à votre problème. Cela peut aussi servir à alerter ou prévenir les développeur d'eventuelles bugs.
 
 ![Help Menu](https://www.ascensiongamedev.com/resources/filehost/e3bde40e1969c06417565d7c7542951f.png)
 
-The rest of this documentation will go over how to use each of the editors above and bring them all together to make an amazing game. When ready, press Next below to learn more about World Design.
+Et voilà ! Le reste de la documentation vous expliquera comment utiliser pas à pas, chacun des éditeurs ci-dessus. Combinez ces éditeurs et pourrez ainsi créer un jeu extraordinaire. Lorsque vous êtes prêt, cliquez sur Suivant ci-dessous pour en savoir plus sur le **World Design**.
 
 &nbsp;
 
-Extra Notes
+Notes complémentaires
 ---------------------------
-Now is probably a good time to note a nifty feature we recently added to Intersect. Open your **File** -> **Options** menu. Here you can click the **Browse** button and select your **Intersect Client.exe**.
+Avant de continuer, il serait maintenant tant d'utiliser une nouvelle petite fonctionnalité qui pourrait vous faire gagner du temps. Allez dans  **Fichier** -> **Paramètres**. Cliquez sur le bouton **Parcourir** et selectionnez votre fichier **Intersect Client.exe**.
 
-After doing so, you will be able to hit the green play icon ![Play Icon](https://www.ascensiongamedev.com/resources/filehost/b793679bc50386069948727977d26ad5.png) in the menu bar to launch your client at any time!
+Après ça, vous n'avez plus qu'à cliquer sur le bouton play ![Play Icon](https://www.ascensiongamedev.com/resources/filehost/b793679bc50386069948727977d26ad5.png) dans la barre d'outils, pour lancer et tester votre jeu à tout instant depuis l'éditeur!
