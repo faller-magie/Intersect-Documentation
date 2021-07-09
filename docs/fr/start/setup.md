@@ -1,6 +1,6 @@
-# Setup
+# Installation
 
-## Starting the Server
+## Demarrer le Serveur
 In order for Intersect to run, you will need to have the server running, first. This is the “backbone” of the engine and is necessary to be up and running for your game to be working.
 Start by going into the Server folder, and opening Intersect Server.exe.
 
@@ -9,7 +9,7 @@ Start by going into the Server folder, and opening Intersect Server.exe.
 A terminal (black window with white text) should appear. Once the terminal states “Server Started” you are ready to go. Do NOT close the server.
 
 
-## Starting the Client
+## Lancer le Client
 Next, you will open the Client, which is the actual game component of Intersect.
 Go to your Client and Editor folder and open Intersect Client.exe.
 
@@ -18,7 +18,7 @@ Go to your Client and Editor folder and open Intersect Client.exe.
 The game’s default main menu will appear. You are now ready to create your first character, who will also be your first admin.
 
 
-## Creating an Account.
+## Créer un Compte.
 Click on the “Register” button.
 
 ![ClickRegister](https://www.ascensiongamedev.com/resources/filehost/fe965e58f48769784b5408936c2b0f70.png)
@@ -31,5 +31,5 @@ You will then be asked to create your character. Pick a name, a class, and don�
 Click “Login” and you will enter the game!
 
 
- ## In-Game
+ ## En Plein Jeu
  Congratulations! Your character is now logged into the game. You won’t see much, yet, but you are now ready to start changing all of that by editing your game!
