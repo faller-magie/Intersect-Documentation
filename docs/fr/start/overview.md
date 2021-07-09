@@ -63,11 +63,12 @@ La barre d'outils, situé haut de votre editeur sera dans la plus part des cas, 
 
 Le plus important est de se concentrer sur le menu **Editeurs** et **Aide**.
 
-Les **Editeurs** vous donnent la possiblité de modifier et créer le contenu et les aspects importants de votre jeu. On peut y créer des classes, des quêtes, des types de projectiles.
+Les **Editeurs** vous donnent la possiblité de modifier et créer le contenu et les aspects importants de votre jeu. On peut y créer des classes, des quêtes, des types de projectiles et plein d'autres choses !
 
 ![Game Editors](https://www.ascensiongamedev.com/resources/filehost/6ab2903c37f843bc11f61e14d1130e90.png)
 
 &nbsp;
+
 Le menu **Aide**, comme son nom l'indique, est la pour vous rediriger vers une quelconque aide, que ce soit par la communauté du forum ou une FAQ, pour répondre à votre problème. Cela peut aussi servir à alerter ou prévenir les développeur d'eventuelles bugs.
 
 ![Help Menu](https://www.ascensiongamedev.com/resources/filehost/e3bde40e1969c06417565d7c7542951f.png)
