@@ -71,7 +71,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: '<<todo:fr>>Getting Started',
+                    title: 'Bien Débuter',
                     collapsable: true,
                     children: [
                         '/developer/start/vs.md',
@@ -106,7 +106,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: '<<todo:fr>>Sharing & Contributions',
+                    title: 'Partage & Contributions',
                     collapsable: true,
                     children: [
                         '/developer/sharing/creating.md',
@@ -134,7 +134,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: '<<todo:fr>>Getting Started',
+                    title: 'Bien Commencer',
                     collapsable: true,
                     children: [
                         '/start/download.md',
@@ -144,7 +144,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: '<<todo:fr>>Editors',
+                    title: 'Editeurs',
                     collapsable: true,
                     children: [
                         '/design/animations.md',
@@ -166,7 +166,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: '<<todo:fr>>Events',
+                    title: 'Evenements',
                     collapsable: true,
                     children: [
                         '/events/introduction.md',
@@ -186,7 +186,7 @@ module.exports = {
                         '/configuration/server-security.md',
                         '/configuration/equipment.md',
                         {
-                            title: '<<todo:fr>>Advanced',
+                            title: 'Sujets Avancées',
                             collapsable: true,
                             children: [
                                 '/advanced/assets.md',
@@ -202,7 +202,7 @@ module.exports = {
                     ]
                 },
                 {
-                    title: '<<todo:fr>>Deployment',
+                    title: 'Exporter le Projet',
                     collapsable: true,
                     children: [
                         '/deploy/forwarding.md',
